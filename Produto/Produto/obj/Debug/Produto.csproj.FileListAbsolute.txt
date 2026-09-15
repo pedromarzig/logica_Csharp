@@ -1,0 +1,7 @@
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Produto\Produto\bin\Debug\Produto.exe.config
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Produto\Produto\bin\Debug\Produto.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Produto\Produto\bin\Debug\Produto.pdb
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Produto\Produto\obj\Debug\Produto.csproj.AssemblyReference.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Produto\Produto\obj\Debug\Produto.csproj.CoreCompileInputs.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Produto\Produto\obj\Debug\Produto.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Produto\Produto\obj\Debug\Produto.pdb

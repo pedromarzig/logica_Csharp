@@ -1,0 +1,7 @@
+C:\Users\pedro.mcastelani\Downloads\C#_projects\time\time\obj\Debug\time.csproj.AssemblyReference.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\time\time\obj\Debug\time.csproj.CoreCompileInputs.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\time\time\bin\Debug\time.exe.config
+C:\Users\pedro.mcastelani\Downloads\C#_projects\time\time\bin\Debug\time.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\time\time\bin\Debug\time.pdb
+C:\Users\pedro.mcastelani\Downloads\C#_projects\time\time\obj\Debug\time.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\time\time\obj\Debug\time.pdb

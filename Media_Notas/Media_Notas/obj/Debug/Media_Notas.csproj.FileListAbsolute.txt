@@ -1,0 +1,7 @@
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Media_Notas\Media_Notas\bin\Debug\Media_Notas.exe.config
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Media_Notas\Media_Notas\bin\Debug\Media_Notas.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Media_Notas\Media_Notas\bin\Debug\Media_Notas.pdb
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Media_Notas\Media_Notas\obj\Debug\Media_Notas.csproj.AssemblyReference.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Media_Notas\Media_Notas\obj\Debug\Media_Notas.csproj.CoreCompileInputs.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Media_Notas\Media_Notas\obj\Debug\Media_Notas.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Media_Notas\Media_Notas\obj\Debug\Media_Notas.pdb

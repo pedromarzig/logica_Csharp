@@ -1,0 +1,7 @@
+C:\Users\pedro.mcastelani\Downloads\C#_projects\MaiorQue100\MaiorQue100\bin\Debug\MaiorQue100.exe.config
+C:\Users\pedro.mcastelani\Downloads\C#_projects\MaiorQue100\MaiorQue100\bin\Debug\MaiorQue100.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\MaiorQue100\MaiorQue100\bin\Debug\MaiorQue100.pdb
+C:\Users\pedro.mcastelani\Downloads\C#_projects\MaiorQue100\MaiorQue100\obj\Debug\MaiorQue100.csproj.AssemblyReference.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\MaiorQue100\MaiorQue100\obj\Debug\MaiorQue100.csproj.CoreCompileInputs.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\MaiorQue100\MaiorQue100\obj\Debug\MaiorQue100.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\MaiorQue100\MaiorQue100\obj\Debug\MaiorQue100.pdb

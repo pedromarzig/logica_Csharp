@@ -1,0 +1,7 @@
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Soma_Numeros\Soma_Numeros\bin\Debug\Soma_Numeros.exe.config
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Soma_Numeros\Soma_Numeros\bin\Debug\Soma_Numeros.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Soma_Numeros\Soma_Numeros\bin\Debug\Soma_Numeros.pdb
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Soma_Numeros\Soma_Numeros\obj\Debug\Soma_Numeros.csproj.AssemblyReference.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Soma_Numeros\Soma_Numeros\obj\Debug\Soma_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Soma_Numeros\Soma_Numeros\obj\Debug\Soma_Numeros.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Soma_Numeros\Soma_Numeros\obj\Debug\Soma_Numeros.pdb

@@ -1,0 +1,7 @@
+C:\Users\pedro.mcastelani\Downloads\C#_projects\DivisaoEntreN1eN2\DivisaoEntreN1eN2\obj\Debug\DivisaoEntreN1eN2.csproj.AssemblyReference.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\DivisaoEntreN1eN2\DivisaoEntreN1eN2\obj\Debug\DivisaoEntreN1eN2.csproj.CoreCompileInputs.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\DivisaoEntreN1eN2\DivisaoEntreN1eN2\bin\Debug\DivisaoEntreN1eN2.exe.config
+C:\Users\pedro.mcastelani\Downloads\C#_projects\DivisaoEntreN1eN2\DivisaoEntreN1eN2\bin\Debug\DivisaoEntreN1eN2.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\DivisaoEntreN1eN2\DivisaoEntreN1eN2\bin\Debug\DivisaoEntreN1eN2.pdb
+C:\Users\pedro.mcastelani\Downloads\C#_projects\DivisaoEntreN1eN2\DivisaoEntreN1eN2\obj\Debug\DivisaoEntreN1eN2.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\DivisaoEntreN1eN2\DivisaoEntreN1eN2\obj\Debug\DivisaoEntreN1eN2.pdb

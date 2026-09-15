@@ -1,0 +1,7 @@
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Entre10e50\Entre10e50\bin\Debug\Entre10e50.exe.config
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Entre10e50\Entre10e50\bin\Debug\Entre10e50.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Entre10e50\Entre10e50\bin\Debug\Entre10e50.pdb
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Entre10e50\Entre10e50\obj\Debug\Entre10e50.csproj.AssemblyReference.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Entre10e50\Entre10e50\obj\Debug\Entre10e50.csproj.CoreCompileInputs.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Entre10e50\Entre10e50\obj\Debug\Entre10e50.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Entre10e50\Entre10e50\obj\Debug\Entre10e50.pdb

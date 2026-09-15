@@ -1,0 +1,7 @@
+C:\Users\pedro.mcastelani\Downloads\C#_projects\MaiorNumeroDe5\MaiorNumeroDe5\bin\Debug\MaiorNumeroDe5.exe.config
+C:\Users\pedro.mcastelani\Downloads\C#_projects\MaiorNumeroDe5\MaiorNumeroDe5\bin\Debug\MaiorNumeroDe5.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\MaiorNumeroDe5\MaiorNumeroDe5\bin\Debug\MaiorNumeroDe5.pdb
+C:\Users\pedro.mcastelani\Downloads\C#_projects\MaiorNumeroDe5\MaiorNumeroDe5\obj\Debug\MaiorNumeroDe5.csproj.AssemblyReference.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\MaiorNumeroDe5\MaiorNumeroDe5\obj\Debug\MaiorNumeroDe5.csproj.CoreCompileInputs.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\MaiorNumeroDe5\MaiorNumeroDe5\obj\Debug\MaiorNumeroDe5.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\MaiorNumeroDe5\MaiorNumeroDe5\obj\Debug\MaiorNumeroDe5.pdb
