@@ -1,0 +1,7 @@
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Ano_Bissexto\Ano_Bissexto\bin\Debug\Ano_Bissexto.exe.config
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Ano_Bissexto\Ano_Bissexto\bin\Debug\Ano_Bissexto.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Ano_Bissexto\Ano_Bissexto\bin\Debug\Ano_Bissexto.pdb
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Ano_Bissexto\Ano_Bissexto\obj\Debug\Ano_Bissexto.csproj.AssemblyReference.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Ano_Bissexto\Ano_Bissexto\obj\Debug\Ano_Bissexto.csproj.CoreCompileInputs.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Ano_Bissexto\Ano_Bissexto\obj\Debug\Ano_Bissexto.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Ano_Bissexto\Ano_Bissexto\obj\Debug\Ano_Bissexto.pdb
