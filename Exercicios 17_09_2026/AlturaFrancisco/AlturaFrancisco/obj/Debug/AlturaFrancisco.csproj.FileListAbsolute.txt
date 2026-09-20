@@ -1,0 +1,7 @@
+C:\Users\pedro\source\repos\AlturaFrancisco\AlturaFrancisco\bin\Debug\AlturaFrancisco.exe.config
+C:\Users\pedro\source\repos\AlturaFrancisco\AlturaFrancisco\bin\Debug\AlturaFrancisco.exe
+C:\Users\pedro\source\repos\AlturaFrancisco\AlturaFrancisco\bin\Debug\AlturaFrancisco.pdb
+C:\Users\pedro\source\repos\AlturaFrancisco\AlturaFrancisco\obj\Debug\AlturaFrancisco.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\AlturaFrancisco\AlturaFrancisco\obj\Debug\AlturaFrancisco.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\AlturaFrancisco\AlturaFrancisco\obj\Debug\AlturaFrancisco.exe
+C:\Users\pedro\source\repos\AlturaFrancisco\AlturaFrancisco\obj\Debug\AlturaFrancisco.pdb

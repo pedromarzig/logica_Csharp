@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro\\source\\repos\\CalculoSalarioInss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28C686C5-8BD0-421F-953A-C1B11232EFC2}|CalculoSalarioInss\\CalculoSalarioInss.csproj|c:\\users\\pedro\\source\\repos\\calculosalarioinss\\calculosalarioinss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C686C5-8BD0-421F-953A-C1B11232EFC2}|CalculoSalarioInss\\CalculoSalarioInss.csproj|solutionrelative:calculosalarioinss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CalculoSalarioInss\\CalculoSalarioInss\\Program.cs",
+              "RelativeDocumentMoniker": "CalculoSalarioInss\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CalculoSalarioInss\\CalculoSalarioInss\\Program.cs",
+              "RelativeToolTip": "CalculoSalarioInss\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T22:54:44.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

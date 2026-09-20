@@ -1,0 +1,7 @@
+C:\Users\pedro\source\repos\TemperaturaFahre\TemperaturaFahre\bin\Debug\TemperaturaFahre.exe.config
+C:\Users\pedro\source\repos\TemperaturaFahre\TemperaturaFahre\bin\Debug\TemperaturaFahre.exe
+C:\Users\pedro\source\repos\TemperaturaFahre\TemperaturaFahre\bin\Debug\TemperaturaFahre.pdb
+C:\Users\pedro\source\repos\TemperaturaFahre\TemperaturaFahre\obj\Debug\TemperaturaFahre.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\TemperaturaFahre\TemperaturaFahre\obj\Debug\TemperaturaFahre.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\TemperaturaFahre\TemperaturaFahre\obj\Debug\TemperaturaFahre.exe
+C:\Users\pedro\source\repos\TemperaturaFahre\TemperaturaFahre\obj\Debug\TemperaturaFahre.pdb

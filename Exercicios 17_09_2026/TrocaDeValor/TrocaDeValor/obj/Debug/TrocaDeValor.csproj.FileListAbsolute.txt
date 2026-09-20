@@ -1,0 +1,7 @@
+C:\Users\pedro\source\repos\TrocaDeValor\TrocaDeValor\bin\Debug\TrocaDeValor.exe.config
+C:\Users\pedro\source\repos\TrocaDeValor\TrocaDeValor\bin\Debug\TrocaDeValor.exe
+C:\Users\pedro\source\repos\TrocaDeValor\TrocaDeValor\bin\Debug\TrocaDeValor.pdb
+C:\Users\pedro\source\repos\TrocaDeValor\TrocaDeValor\obj\Debug\TrocaDeValor.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\TrocaDeValor\TrocaDeValor\obj\Debug\TrocaDeValor.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\TrocaDeValor\TrocaDeValor\obj\Debug\TrocaDeValor.exe
+C:\Users\pedro\source\repos\TrocaDeValor\TrocaDeValor\obj\Debug\TrocaDeValor.pdb

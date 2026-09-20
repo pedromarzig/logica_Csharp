@@ -1,0 +1,7 @@
+C:\Users\pedro\source\repos\FormaDePagamento\FormaDePagamento\bin\Debug\FormaDePagamento.exe.config
+C:\Users\pedro\source\repos\FormaDePagamento\FormaDePagamento\bin\Debug\FormaDePagamento.exe
+C:\Users\pedro\source\repos\FormaDePagamento\FormaDePagamento\bin\Debug\FormaDePagamento.pdb
+C:\Users\pedro\source\repos\FormaDePagamento\FormaDePagamento\obj\Debug\FormaDePagamento.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\FormaDePagamento\FormaDePagamento\obj\Debug\FormaDePagamento.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\FormaDePagamento\FormaDePagamento\obj\Debug\FormaDePagamento.exe
+C:\Users\pedro\source\repos\FormaDePagamento\FormaDePagamento\obj\Debug\FormaDePagamento.pdb
