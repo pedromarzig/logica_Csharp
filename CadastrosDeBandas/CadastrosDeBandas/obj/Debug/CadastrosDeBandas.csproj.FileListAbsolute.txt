@@ -1,0 +1,7 @@
+C:\Users\pedro.mcastelani\Downloads\C#_projects\CadastrosDeBandas\CadastrosDeBandas\bin\Debug\CadastrosDeBandas.exe.config
+C:\Users\pedro.mcastelani\Downloads\C#_projects\CadastrosDeBandas\CadastrosDeBandas\bin\Debug\CadastrosDeBandas.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\CadastrosDeBandas\CadastrosDeBandas\bin\Debug\CadastrosDeBandas.pdb
+C:\Users\pedro.mcastelani\Downloads\C#_projects\CadastrosDeBandas\CadastrosDeBandas\obj\Debug\CadastrosDeBandas.csproj.AssemblyReference.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\CadastrosDeBandas\CadastrosDeBandas\obj\Debug\CadastrosDeBandas.csproj.CoreCompileInputs.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\CadastrosDeBandas\CadastrosDeBandas\obj\Debug\CadastrosDeBandas.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\CadastrosDeBandas\CadastrosDeBandas\obj\Debug\CadastrosDeBandas.pdb
