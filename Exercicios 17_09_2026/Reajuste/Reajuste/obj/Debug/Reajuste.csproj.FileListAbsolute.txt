@@ -1,0 +1,7 @@
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Reajuste\Reajuste\bin\Debug\Reajuste.exe.config
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Reajuste\Reajuste\bin\Debug\Reajuste.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Reajuste\Reajuste\bin\Debug\Reajuste.pdb
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Reajuste\Reajuste\obj\Debug\Reajuste.csproj.AssemblyReference.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Reajuste\Reajuste\obj\Debug\Reajuste.csproj.CoreCompileInputs.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Reajuste\Reajuste\obj\Debug\Reajuste.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Reajuste\Reajuste\obj\Debug\Reajuste.pdb

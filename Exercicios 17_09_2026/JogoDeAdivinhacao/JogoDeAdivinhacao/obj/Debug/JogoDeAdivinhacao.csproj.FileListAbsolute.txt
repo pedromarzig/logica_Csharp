@@ -1,0 +1,7 @@
+C:\Users\pedro.mcastelani\Downloads\C#_projects\JogoDeAdivinhacao\JogoDeAdivinhacao\bin\Debug\JogoDeAdivinhacao.exe.config
+C:\Users\pedro.mcastelani\Downloads\C#_projects\JogoDeAdivinhacao\JogoDeAdivinhacao\bin\Debug\JogoDeAdivinhacao.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\JogoDeAdivinhacao\JogoDeAdivinhacao\bin\Debug\JogoDeAdivinhacao.pdb
+C:\Users\pedro.mcastelani\Downloads\C#_projects\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.csproj.AssemblyReference.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.pdb

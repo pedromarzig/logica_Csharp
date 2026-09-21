@@ -1,0 +1,7 @@
+C:\Users\pedro.mcastelani\Downloads\C#_projects\SomaEntreAeB\SomaEntreAeB\bin\Debug\SomaEntreAeB.exe.config
+C:\Users\pedro.mcastelani\Downloads\C#_projects\SomaEntreAeB\SomaEntreAeB\bin\Debug\SomaEntreAeB.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\SomaEntreAeB\SomaEntreAeB\bin\Debug\SomaEntreAeB.pdb
+C:\Users\pedro.mcastelani\Downloads\C#_projects\SomaEntreAeB\SomaEntreAeB\obj\Debug\SomaEntreAeB.csproj.AssemblyReference.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\SomaEntreAeB\SomaEntreAeB\obj\Debug\SomaEntreAeB.csproj.CoreCompileInputs.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\SomaEntreAeB\SomaEntreAeB\obj\Debug\SomaEntreAeB.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\SomaEntreAeB\SomaEntreAeB\obj\Debug\SomaEntreAeB.pdb

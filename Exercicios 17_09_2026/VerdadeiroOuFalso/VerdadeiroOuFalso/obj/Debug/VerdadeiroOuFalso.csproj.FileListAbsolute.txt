@@ -1,0 +1,7 @@
+C:\Users\pedro.mcastelani\Downloads\C#_projects\VerdadeiroOuFalso\VerdadeiroOuFalso\bin\Debug\VerdadeiroOuFalso.exe.config
+C:\Users\pedro.mcastelani\Downloads\C#_projects\VerdadeiroOuFalso\VerdadeiroOuFalso\bin\Debug\VerdadeiroOuFalso.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\VerdadeiroOuFalso\VerdadeiroOuFalso\bin\Debug\VerdadeiroOuFalso.pdb
+C:\Users\pedro.mcastelani\Downloads\C#_projects\VerdadeiroOuFalso\VerdadeiroOuFalso\obj\Debug\VerdadeiroOuFalso.csproj.AssemblyReference.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\VerdadeiroOuFalso\VerdadeiroOuFalso\obj\Debug\VerdadeiroOuFalso.csproj.CoreCompileInputs.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\VerdadeiroOuFalso\VerdadeiroOuFalso\obj\Debug\VerdadeiroOuFalso.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\VerdadeiroOuFalso\VerdadeiroOuFalso\obj\Debug\VerdadeiroOuFalso.pdb

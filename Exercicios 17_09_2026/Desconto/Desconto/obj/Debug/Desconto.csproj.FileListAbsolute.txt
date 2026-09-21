@@ -1,0 +1,7 @@
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Desconto\Desconto\bin\Debug\Desconto.exe.config
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Desconto\Desconto\bin\Debug\Desconto.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Desconto\Desconto\bin\Debug\Desconto.pdb
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Desconto\Desconto\obj\Debug\Desconto.csproj.AssemblyReference.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Desconto\Desconto\obj\Debug\Desconto.csproj.CoreCompileInputs.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Desconto\Desconto\obj\Debug\Desconto.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Desconto\Desconto\obj\Debug\Desconto.pdb

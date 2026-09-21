@@ -1,0 +1,7 @@
+C:\Users\pedro.mcastelani\Downloads\C#_projects\fabricaLatinha\fabricaLatinha\bin\Debug\fabricaLatinha.exe.config
+C:\Users\pedro.mcastelani\Downloads\C#_projects\fabricaLatinha\fabricaLatinha\bin\Debug\fabricaLatinha.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\fabricaLatinha\fabricaLatinha\bin\Debug\fabricaLatinha.pdb
+C:\Users\pedro.mcastelani\Downloads\C#_projects\fabricaLatinha\fabricaLatinha\obj\Debug\fabricaLatinha.csproj.AssemblyReference.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\fabricaLatinha\fabricaLatinha\obj\Debug\fabricaLatinha.csproj.CoreCompileInputs.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\fabricaLatinha\fabricaLatinha\obj\Debug\fabricaLatinha.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\fabricaLatinha\fabricaLatinha\obj\Debug\fabricaLatinha.pdb

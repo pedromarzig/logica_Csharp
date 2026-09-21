@@ -1,0 +1,7 @@
+C:\Users\pedro.mcastelani\Downloads\C#_projects\IMC-Corporal\IMC-Corporal\obj\Debug\IMC-Corporal.csproj.AssemblyReference.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\IMC-Corporal\IMC-Corporal\obj\Debug\IMC-Corporal.csproj.CoreCompileInputs.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\IMC-Corporal\IMC-Corporal\bin\Debug\IMC-Corporal.exe.config
+C:\Users\pedro.mcastelani\Downloads\C#_projects\IMC-Corporal\IMC-Corporal\bin\Debug\IMC-Corporal.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\IMC-Corporal\IMC-Corporal\bin\Debug\IMC-Corporal.pdb
+C:\Users\pedro.mcastelani\Downloads\C#_projects\IMC-Corporal\IMC-Corporal\obj\Debug\IMC-Corporal.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\IMC-Corporal\IMC-Corporal\obj\Debug\IMC-Corporal.pdb
