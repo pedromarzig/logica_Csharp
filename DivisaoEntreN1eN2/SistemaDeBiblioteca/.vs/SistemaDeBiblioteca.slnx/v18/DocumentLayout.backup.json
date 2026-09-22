@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro.mcastelani\\Downloads\\C#_projects\\SistemaDeBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{747FFB26-5FD8-4B97-94A8-AEF8E44A214C}|SistemaDeBiblioteca\\SistemaDeBiblioteca.csproj|c:\\users\\pedro.mcastelani\\downloads\\c#_projects\\sistemadebiblioteca\\sistemadebiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747FFB26-5FD8-4B97-94A8-AEF8E44A214C}|SistemaDeBiblioteca\\SistemaDeBiblioteca.csproj|solutionrelative:sistemadebiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.mcastelani\\Downloads\\C#_projects\\SistemaDeBiblioteca\\SistemaDeBiblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaDeBiblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro.mcastelani\\Downloads\\C#_projects\\SistemaDeBiblioteca\\SistemaDeBiblioteca\\Program.cs",
+              "RelativeToolTip": "SistemaDeBiblioteca\\Program.cs",
+              "ViewState": "AgIAAEUBAAAAAAAAAAAQwFYBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T11:23:18.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
