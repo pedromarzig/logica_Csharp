@@ -1,0 +1,7 @@
+C:\Users\pedro.mcastelani\Downloads\C#_projects\DivisorDeArrays\DivisorDeArrays\bin\Debug\DivisorDeArrays.exe.config
+C:\Users\pedro.mcastelani\Downloads\C#_projects\DivisorDeArrays\DivisorDeArrays\bin\Debug\DivisorDeArrays.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\DivisorDeArrays\DivisorDeArrays\bin\Debug\DivisorDeArrays.pdb
+C:\Users\pedro.mcastelani\Downloads\C#_projects\DivisorDeArrays\DivisorDeArrays\obj\Debug\DivisorDeArrays.csproj.AssemblyReference.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\DivisorDeArrays\DivisorDeArrays\obj\Debug\DivisorDeArrays.csproj.CoreCompileInputs.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\DivisorDeArrays\DivisorDeArrays\obj\Debug\DivisorDeArrays.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\DivisorDeArrays\DivisorDeArrays\obj\Debug\DivisorDeArrays.pdb
