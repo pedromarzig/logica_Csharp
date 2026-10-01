@@ -1,0 +1,7 @@
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Frutas\Frutas\bin\Debug\Frutas.exe.config
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Frutas\Frutas\bin\Debug\Frutas.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Frutas\Frutas\bin\Debug\Frutas.pdb
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Frutas\Frutas\obj\Debug\Frutas.csproj.AssemblyReference.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Frutas\Frutas\obj\Debug\Frutas.csproj.CoreCompileInputs.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Frutas\Frutas\obj\Debug\Frutas.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\Frutas\Frutas\obj\Debug\Frutas.pdb

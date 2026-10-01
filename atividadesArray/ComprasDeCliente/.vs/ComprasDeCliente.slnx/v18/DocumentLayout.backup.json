@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro.mcastelani\\Downloads\\C#_projects\\ComprasDeCliente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88EEDDC7-90EB-4584-A5F6-F0DA065176F0}|ComprasDeCliente\\ComprasDeCliente.csproj|c:\\users\\pedro.mcastelani\\downloads\\c#_projects\\comprasdecliente\\comprasdecliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EEDDC7-90EB-4584-A5F6-F0DA065176F0}|ComprasDeCliente\\ComprasDeCliente.csproj|solutionrelative:comprasdecliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.mcastelani\\Downloads\\C#_projects\\ComprasDeCliente\\ComprasDeCliente\\Program.cs",
+              "RelativeDocumentMoniker": "ComprasDeCliente\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro.mcastelani\\Downloads\\C#_projects\\ComprasDeCliente\\ComprasDeCliente\\Program.cs*",
+              "RelativeToolTip": "ComprasDeCliente\\Program.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAWwCoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T12:36:14.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

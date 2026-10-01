@@ -1,0 +1,7 @@
+C:\Users\pedro.mcastelani\Downloads\C#_projects\ComprasDeCliente\ComprasDeCliente\bin\Debug\ComprasDeCliente.exe.config
+C:\Users\pedro.mcastelani\Downloads\C#_projects\ComprasDeCliente\ComprasDeCliente\bin\Debug\ComprasDeCliente.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\ComprasDeCliente\ComprasDeCliente\bin\Debug\ComprasDeCliente.pdb
+C:\Users\pedro.mcastelani\Downloads\C#_projects\ComprasDeCliente\ComprasDeCliente\obj\Debug\ComprasDeCliente.csproj.AssemblyReference.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\ComprasDeCliente\ComprasDeCliente\obj\Debug\ComprasDeCliente.csproj.CoreCompileInputs.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\ComprasDeCliente\ComprasDeCliente\obj\Debug\ComprasDeCliente.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\ComprasDeCliente\ComprasDeCliente\obj\Debug\ComprasDeCliente.pdb

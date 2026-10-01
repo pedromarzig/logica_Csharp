@@ -1,0 +1,7 @@
+C:\Users\pedro.mcastelani\Downloads\C#_projects\cadastroProduto\cadastroProduto\bin\Debug\cadastroProduto.exe.config
+C:\Users\pedro.mcastelani\Downloads\C#_projects\cadastroProduto\cadastroProduto\bin\Debug\cadastroProduto.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\cadastroProduto\cadastroProduto\bin\Debug\cadastroProduto.pdb
+C:\Users\pedro.mcastelani\Downloads\C#_projects\cadastroProduto\cadastroProduto\obj\Debug\cadastroProduto.csproj.AssemblyReference.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\cadastroProduto\cadastroProduto\obj\Debug\cadastroProduto.csproj.CoreCompileInputs.cache
+C:\Users\pedro.mcastelani\Downloads\C#_projects\cadastroProduto\cadastroProduto\obj\Debug\cadastroProduto.exe
+C:\Users\pedro.mcastelani\Downloads\C#_projects\cadastroProduto\cadastroProduto\obj\Debug\cadastroProduto.pdb

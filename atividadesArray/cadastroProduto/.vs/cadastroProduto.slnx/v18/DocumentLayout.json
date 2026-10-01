@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro.mcastelani\\Downloads\\C#_projects\\cadastroProduto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5B0417-694F-4483-9B7B-615AD17A47BD}|cadastroProduto\\cadastroProduto.csproj|c:\\users\\pedro.mcastelani\\downloads\\c#_projects\\cadastroproduto\\cadastroproduto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5B0417-694F-4483-9B7B-615AD17A47BD}|cadastroProduto\\cadastroProduto.csproj|solutionrelative:cadastroproduto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.mcastelani\\Downloads\\C#_projects\\cadastroProduto\\cadastroProduto\\Program.cs",
+              "RelativeDocumentMoniker": "cadastroProduto\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro.mcastelani\\Downloads\\C#_projects\\cadastroProduto\\cadastroProduto\\Program.cs",
+              "RelativeToolTip": "cadastroProduto\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:40:06.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
